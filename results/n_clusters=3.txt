@@ -1,0 +1,56 @@
+C:\Users\seok921\PycharmProjects\untitled\venv\Scripts\python.exe C:/Users/seok921/PycharmProjects/untitled/k_modes/test_04.py
+Initialized Centroid Index:  [1984, 4072, 7688]
+n_clusters:  3
+********** iter 1 start ************
+********** iter 1 end ************
+Counter({0: 5711, 1: 1759, 2: 654})
+********** Computing the new center ************
+********** iter  2  start ************
+********** iter  2  end ************
+Counter({0: 4211, 2: 2263, 1: 1650})
+********** Computing the new center ************
+********** iter  3  start ************
+********** iter  3  end ************
+Counter({0: 4324, 2: 2387, 1: 1413})
+********** Computing the new center ************
+********** iter  4  start ************
+********** iter  4  end ************
+Counter({0: 4195, 2: 2437, 1: 1492})
+********** Computing the new center ************
+********** iter  5  start ************
+********** iter  5  end ************
+Counter({0: 4008, 2: 2616, 1: 1500})
+********** Computing the new center ************
+********** iter  6  start ************
+********** iter  6  end ************
+Counter({0: 4027, 2: 2599, 1: 1498})
+********** Computing the new center ************
+********** iter  7  start ************
+********** iter  7  end ************
+Counter({0: 3984, 2: 2638, 1: 1502})
+********** Computing the new center ************
+********** iter  8  start ************
+********** iter  8  end ************
+Counter({0: 3913, 2: 2707, 1: 1504})
+********** Computing the new center ************
+********** iter  9  start ************
+********** iter  9  end ************
+Counter({0: 3879, 2: 2751, 1: 1494})
+********** Computing the new center ************
+********** iter  10  start ************
+********** iter  10  end ************
+Counter({0: 3877, 2: 2769, 1: 1478})
+********** Computing the new center ************
+********** iter  11  start ************
+********** iter  11  end ************
+Counter({0: 3875, 2: 2769, 1: 1480})
+********** Computing the new center ************
+********** iter  12  start ************
+********** iter  12  end ************
+Counter({0: 3875, 2: 2769, 1: 1480})
+********* Finish **********
+Result
+Cluster status:  Counter({0: 3875, 2: 2769, 1: 1480})
+Purity:  0.7581240768094535
+
+Process finished with exit code 0
